@@ -12,7 +12,7 @@ from yt_dlp import YoutubeDL
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "8727094689:AAHlR8qMqRW-DlHO89W_axjOuwTS8zWEJUI"
+TOKEN = "WRITE-BOT-TOKEN"
 ADMIN_USERNAME = "exping"
 
 bot = Bot(token=TOKEN)
